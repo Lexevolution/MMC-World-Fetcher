@@ -1,0 +1,1 @@
+This node.js script fetches MMC worlds from Resonite, and outputs a .csv for further data manipulation. Mainly made for myself to put in to a spreadsheet for all to use.
